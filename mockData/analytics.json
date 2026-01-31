@@ -1,0 +1,75 @@
+{
+  "inventory_summary": {
+    "total_products": 5,
+    "total_inventory_kg": 20.6,
+    "total_value_thb": 5150.00,
+    "available_for_sale_kg": 15.8,
+    "reserved_for_orders_kg": 4.8
+  },
+  "order_summary": {
+    "pending_orders": 1,
+    "processing_orders": 1,
+    "delivered_orders_today": 0,
+    "total_pending_value_thb": 2835.00,
+    "weekly_orders_count": 5
+  },
+  "supply_trends": [
+    {
+      "date": "2026-01-20",
+      "supplied_kg": 4.2,
+      "value_thb": 1050.00
+    },
+    {
+      "date": "2026-01-22",
+      "supplied_kg": 3.8,
+      "value_thb": 836.00
+    },
+    {
+      "date": "2026-01-18",
+      "supplied_kg": 5.1,
+      "value_thb": 1428.00
+    },
+    {
+      "date": "2026-01-24",
+      "supplied_kg": 3.5,
+      "value_thb": 840.00
+    },
+    {
+      "date": "2026-01-15",
+      "supplied_kg": 4.0,
+      "value_thb": 1040.00
+    }
+  ],
+  "sales_trends": [
+    {
+      "date": "2026-01-23",
+      "sold_kg": 6.5,
+      "revenue_thb": 1820.00
+    },
+    {
+      "date": "2026-01-22",
+      "sold_kg": 20.0,
+      "revenue_thb": 5040.00
+    }
+  ],
+  "top_customers": [
+    {
+      "name": "Sushi Palace",
+      "total_orders": 1,
+      "total_spent_thb": 5040.00,
+      "last_order_date": "2026-01-22"
+    },
+    {
+      "name": "Fine Foods Wholesale",
+      "total_orders": 1,
+      "total_spent_thb": 3900.00,
+      "last_order_date": "2026-01-26"
+    },
+    {
+      "name": "Ocean Restaurant",
+      "total_orders": 1,
+      "total_spent_thb": 2835.00,
+      "last_order_date": "2026-01-25"
+    }
+  ]
+}

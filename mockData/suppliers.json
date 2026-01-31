@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Nordic Seafoods AS",
+    "country": "Norway",
+    "contact_person": "Erik Hansen",
+    "email": "erik.hansen@nordicseafoods.no",
+    "phone": "+47 22 12 34 56",
+    "rating": 4.8,
+    "last_delivery_date": "2026-01-20",
+    "products_supplied": ["Atlantic Salmon"]
+  },
+  {
+    "id": 2,
+    "name": "Vancouver Fish Co.",
+    "country": "Canada",
+    "contact_person": "Sarah Johnson",
+    "email": "sarah.j@vancouverfish.ca",
+    "phone": "+1 604 555 0123",
+    "rating": 4.5,
+    "last_delivery_date": "2026-01-22",
+    "products_supplied": ["Pacific Salmon"]
+  },
+  {
+    "id": 3,
+    "name": "Alaskan Premium Seafoods",
+    "country": "USA",
+    "contact_person": "Michael Thompson",
+    "email": "m.thompson@alaskanseafoods.us",
+    "phone": "+1 907 555 0456",
+    "rating": 4.9,
+    "last_delivery_date": "2026-01-18",
+    "products_supplied": ["Chinook Salmon"]
+  },
+  {
+    "id": 4,
+    "name": "Scottish Salmon Ltd",
+    "country": "Scotland",
+    "contact_person": "Robert MacLeod",
+    "email": "robert@scottishsalmon.co.uk",
+    "phone": "+44 131 555 0789",
+    "rating": 4.6,
+    "last_delivery_date": "2026-01-24",
+    "products_supplied": ["Coho Salmon"]
+  },
+  {
+    "id": 5,
+    "name": "Pacific Northwest Seafood",
+    "country": "USA",
+    "contact_person": "Jennifer Wilson",
+    "email": "j.wilson@pnwseafood.us",
+    "phone": "+1 206 555 0321",
+    "rating": 4.7,
+    "last_delivery_date": "2026-01-15",
+    "products_supplied": ["Sockeye Salmon"]
+  }
+]

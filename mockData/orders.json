@@ -1,0 +1,99 @@
+[
+  {
+    "id": 101,
+    "customer_name": "Ocean Restaurant",
+    "order_date": "2026-01-25",
+    "delivery_date": "2026-01-27",
+    "items": [
+      {
+        "product_name": "Atlantic Salmon",
+        "quantity_kg": 10.5,
+        "unit_price": 270.00,
+        "total_price": 2835.00
+      }
+    ],
+    "status": "pending",
+    "priority": "high",
+    "special_requirements": "Keep refrigerated until delivery"
+  },
+  {
+    "id": 102,
+    "customer_name": "Fresh Catch Market",
+    "order_date": "2026-01-24",
+    "delivery_date": "2026-01-26",
+    "items": [
+      {
+        "product_name": "Chinook Salmon",
+        "quantity_kg": 8.0,
+        "unit_price": 300.00,
+        "total_price": 2400.00
+      },
+      {
+        "product_name": "Coho Salmon",
+        "quantity_kg": 5.0,
+        "unit_price": 260.00,
+        "total_price": 1300.00
+      }
+    ],
+    "status": "processing",
+    "priority": "medium",
+    "special_requirements": "Deliver before 9 AM"
+  },
+  {
+    "id": 103,
+    "customer_name": "Gourmet Deli",
+    "order_date": "2026-01-23",
+    "delivery_date": "2026-01-25",
+    "items": [
+      {
+        "product_name": "Sockeye Salmon",
+        "quantity_kg": 6.5,
+        "unit_price": 280.00,
+        "total_price": 1820.00
+      }
+    ],
+    "status": "delivered",
+    "priority": "low",
+    "special_requirements": "Package in vacuum-sealed bags"
+  },
+  {
+    "id": 104,
+    "customer_name": "Sushi Palace",
+    "order_date": "2026-01-22",
+    "delivery_date": "2026-01-24",
+    "items": [
+      {
+        "product_name": "Pacific Salmon",
+        "quantity_kg": 12.0,
+        "unit_price": 240.00,
+        "total_price": 2880.00
+      },
+      {
+        "product_name": "Atlantic Salmon",
+        "quantity_kg": 8.0,
+        "unit_price": 270.00,
+        "total_price": 2160.00
+      }
+    ],
+    "status": "delivered",
+    "priority": "high",
+    "special_requirements": "Must be delivered fresh, not frozen"
+  },
+  {
+    "id": 105,
+    "customer_name": "Fine Foods Wholesale",
+    "order_date": "2026-01-26",
+    "delivery_date": "2026-01-28",
+    "items": [
+      {
+        "product_name": "Coho Salmon",
+        "quantity_kg": 15.0,
+        "unit_price": 260.00,
+        "total_price": 3900.00
+      }
+    ],
+    "status": "confirmed",
+    "priority": "medium",
+    "special_requirements": "Delivery to loading dock"
+  }
+]

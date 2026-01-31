@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Atlantic Salmon",
+    "origin": "Norway",
+    "weight_kg": 4.2,
+    "price_per_kg": 250.00,
+    "date_received": "2026-01-20",
+    "supplier": "Nordic Seafoods AS",
+    "batch_number": "NS-ATL-001",
+    "quality_grade": "A",
+    "storage_location": "Cold Room A-1"
+  },
+  {
+    "id": 2,
+    "name": "Pacific Salmon",
+    "origin": "Canada",
+    "weight_kg": 3.8,
+    "price_per_kg": 220.00,
+    "date_received": "2026-01-22",
+    "supplier": "Vancouver Fish Co.",
+    "batch_number": "VFC-PAC-002",
+    "quality_grade": "A",
+    "storage_location": "Cold Room B-3"
+  },
+  {
+    "id": 3,
+    "name": "Chinook Salmon",
+    "origin": "Alaska",
+    "weight_kg": 5.1,
+    "price_per_kg": 280.00,
+    "date_received": "2026-01-18",
+    "supplier": "Alaskan Premium Seafoods",
+    "batch_number": "APS-CHK-003",
+    "quality_grade": "A+",
+    "storage_location": "Cold Room A-2"
+  },
+  {
+    "id": 4,
+    "name": "Coho Salmon",
+    "origin": "Scotland",
+    "weight_kg": 3.5,
+    "price_per_kg": 240.00,
+    "date_received": "2026-01-24",
+    "supplier": "Scottish Salmon Ltd",
+    "batch_number": "SSL-COH-004",
+    "quality_grade": "B",
+    "storage_location": "Cold Room C-1"
+  },
+  {
+    "id": 5,
+    "name": "Sockeye Salmon",
+    "origin": "Washington State",
+    "weight_kg": 4.0,
+    "price_per_kg": 260.00,
+    "date_received": "2026-01-15",
+    "supplier": "Pacific Northwest Seafood",
+    "batch_number": "PNW-SKY-005",
+    "quality_grade": "A",
+    "storage_location": "Cold Room B-2"
+  }
+]
